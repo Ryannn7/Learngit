@@ -1,3 +1,8 @@
+第三版:append GPL
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+
+
 第二版add distributed
 Git is a distributed version control system.
 Git is free software
