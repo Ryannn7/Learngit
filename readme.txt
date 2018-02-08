@@ -1,3 +1,7 @@
+第六版:
+管理修改1,提交暂存区
+
+
 第五版:
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
