@@ -1,3 +1,7 @@
+第二版add distributed
+Git is a distributed version control system.
+Git is free software
+
 
 第一版wrote a readme file
 Git is a version control system.
